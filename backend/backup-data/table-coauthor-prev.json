@@ -1,0 +1,3146 @@
+{
+    "Sebastian_Grottel": [
+      {
+        "id": "Sebastian_Grottel",
+        "label": "Sebastian Grottel",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0024999999999999996,
+        "eigenvector_centrality": 1.360181154990944e-86,
+        "closeness_centrality": 0.007518796992481203,
+        "betweenness_centrality": 0.0,
+        "time": 2007
+      },
+      {
+        "id": "Sebastian_Grottel",
+        "label": "Sebastian Grottel",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0020552714289104016,
+        "eigenvector_centrality": 1.102900602129184e-47,
+        "closeness_centrality": 0.00645682001614205,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      },
+      {
+        "id": "Sebastian_Grottel",
+        "label": "Sebastian Grottel",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0019059363772628603,
+        "eigenvector_centrality": 4.581477224123016e-12,
+        "closeness_centrality": 0.021659085986571364,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "I._Spector": [
+      {
+        "id": "I._Spector",
+        "label": "I. Spector",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.009999999999999998,
+        "eigenvector_centrality": 5.156962445807602e-09,
+        "closeness_centrality": 0.030303030303030304,
+        "betweenness_centrality": 0.0,
+        "time": 1990
+      }
+    ],
+    "Kollukuduru_Sravanthi": [
+      {
+        "id": "Kollukuduru_Sravanthi",
+        "label": "Kollukuduru Sravanthi",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0018959143045495404,
+        "eigenvector_centrality": 1.2388411343866066e-48,
+        "closeness_centrality": 0.006507592190889371,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "Robert_Patterson": [
+      {
+        "id": "Robert_Patterson",
+        "label": "Robert Patterson",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0042396305971435875,
+        "eigenvector_centrality": 5.568725152797545e-06,
+        "closeness_centrality": 0.022464022464022466,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      }
+    ],
+    "Marcus_A._Magnor": [
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.001204462967029933,
+        "eigenvector_centrality": 5.432070563667007e-08,
+        "closeness_centrality": 0.03489007576698547,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.00262616890112687,
+        "eigenvector_centrality": 1.8078054514162578e-11,
+        "closeness_centrality": 0.010416666666666666,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.001899133582698555,
+        "eigenvector_centrality": 8.089961423025585e-13,
+        "closeness_centrality": 0.04073270667630754,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002127749298780146,
+        "eigenvector_centrality": 0.01256199572886685,
+        "closeness_centrality": 0.023154755223449803,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 3,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002560690303458927,
+        "eigenvector_centrality": 6.119214872719609e-13,
+        "closeness_centrality": 0.005928853754940711,
+        "betweenness_centrality": 3.913434821743044e-06,
+        "time": 2011
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0018778537078004034,
+        "eigenvector_centrality": 1.1915177556357764e-07,
+        "closeness_centrality": 0.027029554807332584,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Marcus_A._Magnor",
+        "label": "Marcus A. Magnor",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0016835016835016832,
+        "eigenvector_centrality": 1.0859051382309286e-26,
+        "closeness_centrality": 0.006745362563237774,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Tian_Zhu_0001": [
+      {
+        "id": "Tian_Zhu_0001",
+        "label": "Tian Zhu 0001",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0024875621890547263,
+        "eigenvector_centrality": 6.500495905695267e-152,
+        "closeness_centrality": 0.012468827930174564,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      }
+    ],
+    "Michael_Kern": [
+      {
+        "id": "Michael_Kern",
+        "label": "Michael Kern",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0017111077866578711,
+        "eigenvector_centrality": 8.299357378372612e-238,
+        "closeness_centrality": 0.011904761904761904,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      },
+      {
+        "id": "Michael_Kern",
+        "label": "Michael Kern",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0017776768881745302,
+        "eigenvector_centrality": 6.84755618810105e-16,
+        "closeness_centrality": 0.00909090909090909,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Gregory_W._Shirah": [
+      {
+        "id": "Gregory_W._Shirah",
+        "label": "Gregory W. Shirah",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0038461538461538464,
+        "eigenvector_centrality": 7.675778083949034e-12,
+        "closeness_centrality": 0.003861003861003861,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      }
+    ],
+    "Bj\u00f8rn_Olstad": [
+      {
+        "id": "Bj\u00f8rn_Olstad",
+        "label": "Bj\u00f8rn Olstad",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.007042253521126761,
+        "eigenvector_centrality": 3.10948068087883e-39,
+        "closeness_centrality": 0.0070921985815602835,
+        "betweenness_centrality": 0.0,
+        "time": 1991
+      }
+    ],
+    "Andreas_W._Reimer": [
+      {
+        "id": "Andreas_W._Reimer",
+        "label": "Andreas W. Reimer",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0014716301282510797,
+        "eigenvector_centrality": 4.544483876558958e-08,
+        "closeness_centrality": 0.06319817767653758,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      }
+    ],
+    "Bob_Baddeley": [
+      {
+        "id": "Bob_Baddeley",
+        "label": "Bob Baddeley",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.002487562189054726,
+        "eigenvector_centrality": 6.224293402988835e-34,
+        "closeness_centrality": 0.0199501246882793,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      }
+    ],
+    "Uwe_Mikolajewicz": [
+      {
+        "id": "Uwe_Mikolajewicz",
+        "label": "Uwe Mikolajewicz",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0021645021645021645,
+        "eigenvector_centrality": 1.2388411343866066e-48,
+        "closeness_centrality": 0.006507592190889371,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "Ovidiu_Ancuta": [
+      {
+        "id": "Ovidiu_Ancuta",
+        "label": "Ovidiu Ancuta",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0021645021645021645,
+        "eigenvector_centrality": 3.3433877654834804e-40,
+        "closeness_centrality": 0.008676789587852495,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "Julio_Daniel_Silva": [
+      {
+        "id": "Julio_Daniel_Silva",
+        "label": "Julio Daniel Silva",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0022522522522522522,
+        "eigenvector_centrality": 3.8936166552256455e-74,
+        "closeness_centrality": 0.006772009029345372,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      },
+      {
+        "id": "Julio_Daniel_Silva",
+        "label": "Julio Daniel Silva",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.001893939393939394,
+        "eigenvector_centrality": 6.232505402363365e-25,
+        "closeness_centrality": 0.015180265654648957,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Xuedi_Qin": [
+      {
+        "id": "Xuedi_Qin",
+        "label": "Xuedi Qin",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.002207505518763797,
+        "eigenvector_centrality": 5.716774658767076e-206,
+        "closeness_centrality": 0.011061946902654867,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Zeqian_Shen": [
+      {
+        "id": "Zeqian_Shen",
+        "label": "Zeqian Shen",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002476865702991007,
+        "eigenvector_centrality": 1.3759459080211504e-104,
+        "closeness_centrality": 0.01596009975062344,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      },
+      {
+        "id": "Zeqian_Shen",
+        "label": "Zeqian Shen",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0018643571190636653,
+        "eigenvector_centrality": 1.5754394409845596e-23,
+        "closeness_centrality": 0.012103606874848705,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "Mirko_Mandic": [
+      {
+        "id": "Mirko_Mandic",
+        "label": "Mirko Mandic",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 2.252882012610874e-48,
+        "closeness_centrality": 0.002061855670103093,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Peter_J._Basser": [
+      {
+        "id": "Peter_J._Basser",
+        "label": "Peter J. Basser",
+        "total_num_edges": 9,
+        "total_weighted_edges": 9,
+        "pagerank": 0.004026402042285446,
+        "eigenvector_centrality": 0.29880841285659826,
+        "closeness_centrality": 0.048418972332015815,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      }
+    ],
+    "Zhaosong_Huang": [
+      {
+        "id": "Zhaosong_Huang",
+        "label": "Zhaosong Huang",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.001638517611403852,
+        "eigenvector_centrality": 1.9769525044153517e-07,
+        "closeness_centrality": 0.03178234346224678,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      }
+    ],
+    "Paolo_Simonetto": [
+      {
+        "id": "Paolo_Simonetto",
+        "label": "Paolo Simonetto",
+        "total_num_edges": 12,
+        "total_weighted_edges": 12,
+        "pagerank": 0.0021645021645021654,
+        "eigenvector_centrality": 0.00042351424486243957,
+        "closeness_centrality": 0.026030368763557483,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      },
+      {
+        "id": "Paolo_Simonetto",
+        "label": "Paolo Simonetto",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.001996007984031936,
+        "eigenvector_centrality": 1.0463689261027226e-17,
+        "closeness_centrality": 0.006,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Paolo_Simonetto",
+        "label": "Paolo Simonetto",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0008387495104768189,
+        "eigenvector_centrality": 3.5226963070371656e-08,
+        "closeness_centrality": 0.016463257781461686,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Donna_L._Gresh": [
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.006944444444444444,
+        "eigenvector_centrality": 2.3474960793493227e-07,
+        "closeness_centrality": 0.03496503496503497,
+        "betweenness_centrality": 0.0,
+        "time": 1992
+      },
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.004149377593360995,
+        "eigenvector_centrality": 9.81307607336478e-18,
+        "closeness_centrality": 0.0125,
+        "betweenness_centrality": 0.0,
+        "time": 1999
+      },
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0038314176245210726,
+        "eigenvector_centrality": 3.6912694954868597e-10,
+        "closeness_centrality": 0.015384615384615385,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      },
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0036101083032490976,
+        "eigenvector_centrality": 7.271645135133124e-18,
+        "closeness_centrality": 0.007246376811594203,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      },
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0038461538461538464,
+        "eigenvector_centrality": 3.143998703185524e-08,
+        "closeness_centrality": 0.011583011583011582,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      },
+      {
+        "id": "Donna_L._Gresh",
+        "label": "Donna L. Gresh",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0032679738562091504,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.003278688524590164,
+        "betweenness_centrality": 0.0,
+        "time": 2003
+      }
+    ],
+    "Mitchell_Whitelaw": [
+      {
+        "id": "Mitchell_Whitelaw",
+        "label": "Mitchell Whitelaw",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001838235294117647,
+        "eigenvector_centrality": 2.4812206144276324e-16,
+        "closeness_centrality": 0.009208103130755065,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      }
+    ],
+    "H._Videau": [
+      {
+        "id": "H._Videau",
+        "label": "H. Videau",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.008849557522123894,
+        "eigenvector_centrality": 1.8655275661505032e-21,
+        "closeness_centrality": 0.008928571428571428,
+        "betweenness_centrality": 0.0,
+        "time": 1993
+      }
+    ],
+    "Yan_Ke": [
+      {
+        "id": "Yan_Ke",
+        "label": "Yan Ke",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.005664834222251155,
+        "eigenvector_centrality": 1.0149687322065465e-13,
+        "closeness_centrality": 0.01818181818181818,
+        "betweenness_centrality": 0.0,
+        "time": 1990
+      }
+    ],
+    "Monika_Jankun-Kelly": [
+      {
+        "id": "Monika_Jankun-Kelly",
+        "label": "Monika Jankun-Kelly",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.002885660912862185,
+        "eigenvector_centrality": 5.211964854977259e-230,
+        "closeness_centrality": 0.0105977108944468,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Antonio_Zorcolo": [
+      {
+        "id": "Antonio_Zorcolo",
+        "label": "Antonio Zorcolo",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.004366812227074236,
+        "eigenvector_centrality": 5.836039523491041e-11,
+        "closeness_centrality": 0.013157894736842105,
+        "betweenness_centrality": 0.0,
+        "time": 1998
+      }
+    ],
+    "Pierre_Ermes": [
+      {
+        "id": "Pierre_Ermes",
+        "label": "Pierre Ermes",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0030883140932100508,
+        "eigenvector_centrality": 8.561916237841488e-08,
+        "closeness_centrality": 0.018535539215686275,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      }
+    ],
+    "Christoph_Wimmer": [
+      {
+        "id": "Christoph_Wimmer",
+        "label": "Christoph Wimmer",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002053388090349076,
+        "eigenvector_centrality": 9.752655484586943e-24,
+        "closeness_centrality": 0.00823045267489712,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "Haiyan_Yang": [
+      {
+        "id": "Haiyan_Yang",
+        "label": "Haiyan Yang",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.002053388090349076,
+        "eigenvector_centrality": 1.3919455038132834e-28,
+        "closeness_centrality": 0.006172839506172839,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Haiyan_Yang",
+        "label": "Haiyan Yang",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0016094696734966915,
+        "eigenvector_centrality": 6.940022354565577e-11,
+        "closeness_centrality": 0.04191517167636925,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      }
+    ],
+    "Huw_Dawkes": [
+      {
+        "id": "Huw_Dawkes",
+        "label": "Huw Dawkes",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.006060606060606061,
+        "eigenvector_centrality": 1.569000990703855e-33,
+        "closeness_centrality": 0.018292682926829267,
+        "betweenness_centrality": 0.0,
+        "time": 1995
+      }
+    ],
+    "Lorna_Role": [
+      {
+        "id": "Lorna_Role",
+        "label": "Lorna Role",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0020161290322580645,
+        "eigenvector_centrality": 3.316784937810042e-14,
+        "closeness_centrality": 0.010101010101010102,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Douglas_Dommermuth": [
+      {
+        "id": "Douglas_Dommermuth",
+        "label": "Douglas Dommermuth",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0032679738562091504,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.003278688524590164,
+        "betweenness_centrality": 0.0,
+        "time": 2003
+      }
+    ],
+    "Lauren_Dietrich": [
+      {
+        "id": "Lauren_Dietrich",
+        "label": "Lauren Dietrich",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 2.252882012610874e-48,
+        "closeness_centrality": 0.002061855670103093,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Wolfram_von_Funck": [
+      {
+        "id": "Wolfram_von_Funck",
+        "label": "Wolfram von Funck",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0025936251233879045,
+        "eigenvector_centrality": 1.1070095412645462e-263,
+        "closeness_centrality": 0.00798004987531172,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      }
+    ],
+    "Moataz_Abdelaal": [
+      {
+        "id": "Moataz_Abdelaal",
+        "label": "Moataz Abdelaal",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0017161120768079583,
+        "eigenvector_centrality": 6.763697740722248e-37,
+        "closeness_centrality": 0.01890989988876529,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Meng-Chieh_Lee": [
+      {
+        "id": "Meng-Chieh_Lee",
+        "label": "Meng-Chieh Lee",
+        "total_num_edges": 9,
+        "total_weighted_edges": 9,
+        "pagerank": 0.0018939393939393936,
+        "eigenvector_centrality": 2.6474880139350736e-19,
+        "closeness_centrality": 0.017077798861480076,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Calvin_Yau": [
+      {
+        "id": "Calvin_Yau",
+        "label": "Calvin Yau",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 1.5572207649810928e-14,
+        "closeness_centrality": 0.012422360248447204,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Ray_J._Meyers": [
+      {
+        "id": "Ray_J._Meyers",
+        "label": "Ray J. Meyers",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.01,
+        "eigenvector_centrality": 2.931393763564985e-22,
+        "closeness_centrality": 0.010101010101010102,
+        "betweenness_centrality": 0.0,
+        "time": 1990
+      }
+    ],
+    "Peter_Wolf": [
+      {
+        "id": "Peter_Wolf",
+        "label": "Peter Wolf",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.004016064257028112,
+        "eigenvector_centrality": 1.5362353710944121e-24,
+        "closeness_centrality": 0.008064516129032258,
+        "betweenness_centrality": 0.0,
+        "time": 1996
+      }
+    ],
+    "Britta_Weber": [
+      {
+        "id": "Britta_Weber",
+        "label": "Britta Weber",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.00196802845444514,
+        "eigenvector_centrality": 1.2866775915300242e-07,
+        "closeness_centrality": 0.015494071146245061,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Qingmin_Shi": [
+      {
+        "id": "Qingmin_Shi",
+        "label": "Qingmin Shi",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.002967359050445104,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Alex_Endert": [
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 8,
+        "total_weighted_edges": 9,
+        "pagerank": 0.002924140459991099,
+        "eigenvector_centrality": 3.181170902516664e-20,
+        "closeness_centrality": 0.03571239616951484,
+        "betweenness_centrality": 0.00021691973969631235,
+        "time": 2009
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019166331383789277,
+        "eigenvector_centrality": 1.125807914268438e-08,
+        "closeness_centrality": 0.012313773183338402,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0020182709446721634,
+        "eigenvector_centrality": 1.2589449004506932e-33,
+        "closeness_centrality": 0.004629629629629629,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0020715451278474416,
+        "eigenvector_centrality": 1.1852563676466272e-09,
+        "closeness_centrality": 0.021779036827195467,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 12,
+        "total_weighted_edges": 12,
+        "pagerank": 0.003479453227587935,
+        "eigenvector_centrality": 5.92024636341978e-06,
+        "closeness_centrality": 0.04450107971584016,
+        "betweenness_centrality": 0.009223599653616516,
+        "time": 2015
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 10,
+        "total_weighted_edges": 11,
+        "pagerank": 0.004388132228309805,
+        "eigenvector_centrality": 1.6040372797510513e-24,
+        "closeness_centrality": 0.031957264250174325,
+        "betweenness_centrality": 0.0043614598122631585,
+        "time": 2016
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 17,
+        "total_weighted_edges": 18,
+        "pagerank": 0.006520355899914832,
+        "eigenvector_centrality": 6.234542799578252e-117,
+        "closeness_centrality": 0.039375,
+        "betweenness_centrality": 0.001418184723553851,
+        "time": 2017
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 11,
+        "total_weighted_edges": 12,
+        "pagerank": 0.004011631704864654,
+        "eigenvector_centrality": 1.5649983667249755e-05,
+        "closeness_centrality": 0.04097688803571157,
+        "betweenness_centrality": 0.00711978080399133,
+        "time": 2018
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 13,
+        "total_weighted_edges": 13,
+        "pagerank": 0.003494505403338572,
+        "eigenvector_centrality": 1.581216280529528e-05,
+        "closeness_centrality": 0.09516666056858512,
+        "betweenness_centrality": 0.014060161529122407,
+        "time": 2019
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 10,
+        "total_weighted_edges": 10,
+        "pagerank": 0.0023310583510683554,
+        "eigenvector_centrality": 0.0036239934107039286,
+        "closeness_centrality": 0.0926424180697625,
+        "betweenness_centrality": 0.005795813490721869,
+        "time": 2020
+      },
+      {
+        "id": "Alex_Endert",
+        "label": "Alex Endert",
+        "total_num_edges": 4,
+        "total_weighted_edges": 7,
+        "pagerank": 0.002288168609376416,
+        "eigenvector_centrality": 1.6884989682578457e-218,
+        "closeness_centrality": 0.01011378002528445,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "James_D._Foley": [
+      {
+        "id": "James_D._Foley",
+        "label": "James D. Foley",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0021645021645021645,
+        "eigenvector_centrality": 1.6724206922670216e-59,
+        "closeness_centrality": 0.004338394793926247,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "David_Sheffield": [
+      {
+        "id": "David_Sheffield",
+        "label": "David Sheffield",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0019723865877712033,
+        "eigenvector_centrality": 3.0370208611385664e-17,
+        "closeness_centrality": 0.001976284584980237,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Philip_Peterson": [
+      {
+        "id": "Philip_Peterson",
+        "label": "Philip Peterson",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0064516129032258064,
+        "eigenvector_centrality": 2.5932675404514313e-27,
+        "closeness_centrality": 0.012987012987012988,
+        "betweenness_centrality": 0.0,
+        "time": 1994
+      }
+    ],
+    "Danny_Dorling": [
+      {
+        "id": "Danny_Dorling",
+        "label": "Danny Dorling",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.005934718100890208,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Erich_Gstrein": [
+      {
+        "id": "Erich_Gstrein",
+        "label": "Erich Gstrein",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0010381293224356633,
+        "eigenvector_centrality": 6.225091460899648e-05,
+        "closeness_centrality": 0.03569778082468484,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      },
+      {
+        "id": "Erich_Gstrein",
+        "label": "Erich Gstrein",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002135820317152954,
+        "eigenvector_centrality": 2.427898238114154e-178,
+        "closeness_centrality": 0.018433179723502304,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      }
+    ],
+    "John_Patchett": [
+      {
+        "id": "John_Patchett",
+        "label": "John Patchett",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0016835016835016836,
+        "eigenvector_centrality": 1.629029990728949e-20,
+        "closeness_centrality": 0.008431703204047217,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "David_Glick": [
+      {
+        "id": "David_Glick",
+        "label": "David Glick",
+        "total_num_edges": 11,
+        "total_weighted_edges": 11,
+        "pagerank": 0.004566210045662102,
+        "eigenvector_centrality": 0.28867513064913614,
+        "closeness_centrality": 0.05045871559633028,
+        "betweenness_centrality": 0.0,
+        "time": 1997
+      }
+    ],
+    "Hans-Werner_Braun": [
+      {
+        "id": "Hans-Werner_Braun",
+        "label": "Hans-Werner Braun",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.007042253521126761,
+        "eigenvector_centrality": 2.230942977517154e-11,
+        "closeness_centrality": 0.028368794326241134,
+        "betweenness_centrality": 0.0,
+        "time": 1991
+      }
+    ],
+    "Marcus_Dostie": [
+      {
+        "id": "Marcus_Dostie",
+        "label": "Marcus Dostie",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002890173410404624,
+        "eigenvector_centrality": 1.6362091280894926e-22,
+        "closeness_centrality": 0.011594202898550725,
+        "betweenness_centrality": 0.0,
+        "time": 2013
+      }
+    ],
+    "Jessica_Hullman": [
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.002899292880091302,
+        "eigenvector_centrality": 9.061356576460382e-14,
+        "closeness_centrality": 0.005928853754940711,
+        "betweenness_centrality": 1.5653739286972176e-05,
+        "time": 2011
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.003072728280272539,
+        "eigenvector_centrality": 3.0206862150733653e-16,
+        "closeness_centrality": 0.01932367149758454,
+        "betweenness_centrality": 0.0,
+        "time": 2013
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 5,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0038975637958293544,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.011160714285714286,
+        "betweenness_centrality": 4.993608181527645e-05,
+        "time": 2017
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 5,
+        "total_weighted_edges": 7,
+        "pagerank": 0.002575557437626236,
+        "eigenvector_centrality": 1.2791468837858808e-13,
+        "closeness_centrality": 0.015838383838383843,
+        "betweenness_centrality": 2.9989503673714193e-05,
+        "time": 2018
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0013429748239291532,
+        "eigenvector_centrality": 4.1588617251456093e-13,
+        "closeness_centrality": 0.015924601884952875,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019463972818588632,
+        "eigenvector_centrality": 1.5428204785986497e-06,
+        "closeness_centrality": 0.0648455063669508,
+        "betweenness_centrality": 0.004361349651768206,
+        "time": 2020
+      },
+      {
+        "id": "Jessica_Hullman",
+        "label": "Jessica Hullman",
+        "total_num_edges": 11,
+        "total_weighted_edges": 11,
+        "pagerank": 0.005286518664610572,
+        "eigenvector_centrality": 1.5605967147369427e-05,
+        "closeness_centrality": 0.07888775166319259,
+        "betweenness_centrality": 0.020514883346741754,
+        "time": 2021
+      }
+    ],
+    "Michael_Oppermann": [
+      {
+        "id": "Michael_Oppermann",
+        "label": "Michael Oppermann",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0013191705551521893,
+        "eigenvector_centrality": 3.60544724796412e-41,
+        "closeness_centrality": 0.004140786749482401,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      },
+      {
+        "id": "Michael_Oppermann",
+        "label": "Michael Oppermann",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.002207505518763797,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.0022123893805309734,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Rahul_Duggal": [
+      {
+        "id": "Rahul_Duggal",
+        "label": "Rahul Duggal",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002207505518763797,
+        "eigenvector_centrality": 9.821360258139088e-166,
+        "closeness_centrality": 0.01327433628318584,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Dongping_Zhang": [
+      {
+        "id": "Dongping_Zhang",
+        "label": "Dongping Zhang",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0012971738316361224,
+        "eigenvector_centrality": 1.417975372887412e-06,
+        "closeness_centrality": 0.06473543510324484,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Koji_Koyamada": [
+      {
+        "id": "Koji_Koyamada",
+        "label": "Koji Koyamada",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0064516129032258064,
+        "eigenvector_centrality": 4.7019772302114815e-38,
+        "closeness_centrality": 0.006493506493506494,
+        "betweenness_centrality": 0.0,
+        "time": 1994
+      },
+      {
+        "id": "Koji_Koyamada",
+        "label": "Koji Koyamada",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.004016064257028112,
+        "eigenvector_centrality": 1.5362353710944121e-24,
+        "closeness_centrality": 0.008064516129032258,
+        "betweenness_centrality": 0.0,
+        "time": 1996
+      },
+      {
+        "id": "Koji_Koyamada",
+        "label": "Koji Koyamada",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 2.2098604502303123e-31,
+        "closeness_centrality": 0.006211180124223602,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Luc_Wilson": [
+      {
+        "id": "Luc_Wilson",
+        "label": "Luc Wilson",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.0017591838037518568,
+        "eigenvector_centrality": 1.8986038812890546e-08,
+        "closeness_centrality": 0.018050090562738118,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      },
+      {
+        "id": "Luc_Wilson",
+        "label": "Luc Wilson",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.0023865059052400788,
+        "eigenvector_centrality": 1.3993740754989781e-21,
+        "closeness_centrality": 0.01605216955104088,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      }
+    ],
+    "Johann_Kastner": [
+      {
+        "id": "Johann_Kastner",
+        "label": "Johann Kastner",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0014032616943609323,
+        "eigenvector_centrality": 8.918787940515499e-45,
+        "closeness_centrality": 0.015162907268170427,
+        "betweenness_centrality": 0.0,
+        "time": 2007
+      },
+      {
+        "id": "Johann_Kastner",
+        "label": "Johann Kastner",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0015786506116916925,
+        "eigenvector_centrality": 4.690896612324728e-07,
+        "closeness_centrality": 0.025570082091821225,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      },
+      {
+        "id": "Johann_Kastner",
+        "label": "Johann Kastner",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002335040047321609,
+        "eigenvector_centrality": 6.920192426692464e-09,
+        "closeness_centrality": 0.0255872063968016,
+        "betweenness_centrality": 0.0,
+        "time": 2013
+      },
+      {
+        "id": "Johann_Kastner",
+        "label": "Johann Kastner",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0022522522522522522,
+        "eigenvector_centrality": 2.835929657358296e-57,
+        "closeness_centrality": 0.009029345372460496,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      },
+      {
+        "id": "Johann_Kastner",
+        "label": "Johann Kastner",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0015021118386236345,
+        "eigenvector_centrality": 3.264106431291778e-06,
+        "closeness_centrality": 0.016681096681096682,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Wendy_E._Mackay": [
+      {
+        "id": "Wendy_E._Mackay",
+        "label": "Wendy E. Mackay",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 2.2098604502303123e-31,
+        "closeness_centrality": 0.006211180124223602,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Ryan_Wilson": [
+      {
+        "id": "Ryan_Wilson",
+        "label": "Ryan Wilson",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0022472212977855364,
+        "eigenvector_centrality": 3.4492839391197894e-25,
+        "closeness_centrality": 0.022276779094099617,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      }
+    ],
+    "L\u00e1szl\u00f3_Dud\u00e1s": [
+      {
+        "id": "L\u00e1szl\u00f3_Dud\u00e1s",
+        "label": "L\u00e1szl\u00f3 Dud\u00e1s",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0019723865877712033,
+        "eigenvector_centrality": 3.864208124304635e-06,
+        "closeness_centrality": 0.015810276679841896,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Wesley_Kendall": [
+      {
+        "id": "Wesley_Kendall",
+        "label": "Wesley Kendall",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0024154589371980675,
+        "eigenvector_centrality": 1.8490516557631086e-14,
+        "closeness_centrality": 0.014527845036319613,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      }
+    ],
+    "Katherine_E._Isaacs": [
+      {
+        "id": "Katherine_E._Isaacs",
+        "label": "Katherine E. Isaacs",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0021813690220320193,
+        "eigenvector_centrality": 8.582590422672991e-11,
+        "closeness_centrality": 0.017146776406035666,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Katherine_E._Isaacs",
+        "label": "Katherine E. Isaacs",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.001996007984031936,
+        "eigenvector_centrality": 1.1689293033045242e-10,
+        "closeness_centrality": 0.012,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Katherine_E._Isaacs",
+        "label": "Katherine E. Isaacs",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0013783135204212926,
+        "eigenvector_centrality": 1.4756713618297049e-21,
+        "closeness_centrality": 0.006027122049221496,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      },
+      {
+        "id": "Katherine_E._Isaacs",
+        "label": "Katherine E. Isaacs",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0024470151533465302,
+        "eigenvector_centrality": 1.6736650496745583e-30,
+        "closeness_centrality": 0.009316770186335404,
+        "betweenness_centrality": 3.863875660481246e-05,
+        "time": 2020
+      },
+      {
+        "id": "Katherine_E._Isaacs",
+        "label": "Katherine E. Isaacs",
+        "total_num_edges": 9,
+        "total_weighted_edges": 9,
+        "pagerank": 0.0018939393939393936,
+        "eigenvector_centrality": 2.6474880139350736e-19,
+        "closeness_centrality": 0.017077798861480076,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Greg_L._Nelson": [
+      {
+        "id": "Greg_L._Nelson",
+        "label": "Greg L. Nelson",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0020161290322580645,
+        "eigenvector_centrality": 3.9835441563116295e-11,
+        "closeness_centrality": 0.012121212121212121,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Zhutian_Chen": [
+      {
+        "id": "Zhutian_Chen",
+        "label": "Zhutian Chen",
+        "total_num_edges": 8,
+        "total_weighted_edges": 9,
+        "pagerank": 0.0018059542104024266,
+        "eigenvector_centrality": 2.3885834286297242e-05,
+        "closeness_centrality": 0.09644406540843191,
+        "betweenness_centrality": 0.0014168239790551293,
+        "time": 2019
+      },
+      {
+        "id": "Zhutian_Chen",
+        "label": "Zhutian Chen",
+        "total_num_edges": 12,
+        "total_weighted_edges": 12,
+        "pagerank": 0.0020426573551570767,
+        "eigenvector_centrality": 0.07835291116679376,
+        "closeness_centrality": 0.14393491032102518,
+        "betweenness_centrality": 0.014590577141894273,
+        "time": 2020
+      },
+      {
+        "id": "Zhutian_Chen",
+        "label": "Zhutian Chen",
+        "total_num_edges": 10,
+        "total_weighted_edges": 14,
+        "pagerank": 0.0028103659876843835,
+        "eigenvector_centrality": 0.001147525286854478,
+        "closeness_centrality": 0.10924104673672566,
+        "betweenness_centrality": 0.00033128609644905813,
+        "time": 2021
+      },
+      {
+        "id": "Zhutian_Chen",
+        "label": "Zhutian Chen",
+        "total_num_edges": 21,
+        "total_weighted_edges": 24,
+        "pagerank": 0.004568661378460646,
+        "eigenvector_centrality": 0.1025462005599083,
+        "closeness_centrality": 0.1367758217947032,
+        "betweenness_centrality": 0.021016427266021407,
+        "time": 2022
+      }
+    ],
+    "Tran_Van_Long": [
+      {
+        "id": "Tran_Van_Long",
+        "label": "Tran Van Long",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0021788865889530444,
+        "eigenvector_centrality": 6.788954871515176e-270,
+        "closeness_centrality": 0.007481296758104738,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      }
+    ],
+    "Fernando_Vieira_Paulovich": [
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0024999999999999996,
+        "eigenvector_centrality": 1.360181154990944e-86,
+        "closeness_centrality": 0.007518796992481203,
+        "betweenness_centrality": 0.0,
+        "time": 2007
+      },
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0024875621890547263,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.0024937655860349127,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      },
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0013416781322919196,
+        "eigenvector_centrality": 5.913721239313431e-35,
+        "closeness_centrality": 0.007566585956416465,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      },
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0028565179736844124,
+        "eigenvector_centrality": 4.8962737252815656e-08,
+        "closeness_centrality": 0.019367588932806327,
+        "betweenness_centrality": 0.000532227135757054,
+        "time": 2011
+      },
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001996007984031936,
+        "eigenvector_centrality": 6.762000697266437e-15,
+        "closeness_centrality": 0.008,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Fernando_Vieira_Paulovich",
+        "label": "Fernando Vieira Paulovich",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 1.2031624713109462e-57,
+        "closeness_centrality": 0.0015527950310559005,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Anita_Ruangrotsakun": [
+      {
+        "id": "Anita_Ruangrotsakun",
+        "label": "Anita Ruangrotsakun",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0018939393939393938,
+        "eigenvector_centrality": 2.343650915035828e-38,
+        "closeness_centrality": 0.011385199240986717,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Thomas_Nagel": [
+      {
+        "id": "Thomas_Nagel",
+        "label": "Thomas Nagel",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.0020161290322580645,
+        "eigenvector_centrality": 1.8531014527154184e-08,
+        "closeness_centrality": 0.014141414141414142,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Jiansu_Pu": [
+      {
+        "id": "Jiansu_Pu",
+        "label": "Jiansu Pu",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002207505518763797,
+        "eigenvector_centrality": 9.821360258139088e-166,
+        "closeness_centrality": 0.01327433628318584,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Richard_Weinberg": [
+      {
+        "id": "Richard_Weinberg",
+        "label": "Richard Weinberg",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 6.38700739544198e-12,
+        "closeness_centrality": 0.012371134020618556,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Guang_Lin": [
+      {
+        "id": "Guang_Lin",
+        "label": "Guang Lin",
+        "total_num_edges": 4,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0024046374273395624,
+        "eigenvector_centrality": 3.424675545552087e-32,
+        "closeness_centrality": 0.018434913468773517,
+        "betweenness_centrality": 3.404730532601997e-06,
+        "time": 2016
+      }
+    ],
+    "Feng_Wang_0013": [
+      {
+        "id": "Feng_Wang_0013",
+        "label": "Feng Wang 0013",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002136375164024462,
+        "eigenvector_centrality": 1.2417828380950697e-17,
+        "closeness_centrality": 0.008417508417508419,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Zhendong_Yang": [
+      {
+        "id": "Zhendong_Yang",
+        "label": "Zhendong Yang",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.001253417688250442,
+        "eigenvector_centrality": 0.10408732980407828,
+        "closeness_centrality": 0.11704984142745686,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Lewis_W._F._Li": [
+      {
+        "id": "Lewis_W._F._Li",
+        "label": "Lewis W. F. Li",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.005934718100890208,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Heidrun_Steinmetz": [
+      {
+        "id": "Heidrun_Steinmetz",
+        "label": "Heidrun Steinmetz",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0014322548235975023,
+        "eigenvector_centrality": 9.433561749428049e-07,
+        "closeness_centrality": 0.02170374389582203,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Eben_Myers": [
+      {
+        "id": "Eben_Myers",
+        "label": "Eben Myers",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 6.38700739544198e-12,
+        "closeness_centrality": 0.012371134020618556,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Haibo_Dong": [
+      {
+        "id": "Haibo_Dong",
+        "label": "Haibo Dong",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0019723865877712033,
+        "eigenvector_centrality": 3.980683983111542e-12,
+        "closeness_centrality": 0.005928853754940711,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Monika_B\u00fcscher": [
+      {
+        "id": "Monika_B\u00fcscher",
+        "label": "Monika B\u00fcscher",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0038314176245210726,
+        "eigenvector_centrality": 3.6912694954868597e-10,
+        "closeness_centrality": 0.015384615384615385,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      }
+    ],
+    "Danny_Holten": [
+      {
+        "id": "Danny_Holten",
+        "label": "Danny Holten",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0014976605925627693,
+        "eigenvector_centrality": 3.090104926002309e-29,
+        "closeness_centrality": 0.006745362563237774,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Frank_van_Ham": [
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.002646628342453366,
+        "eigenvector_centrality": 3.793671771276618e-15,
+        "closeness_centrality": 0.00966183574879227,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0038461538461538464,
+        "eigenvector_centrality": 7.675778083949034e-12,
+        "closeness_centrality": 0.003861003861003861,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0018571062201695049,
+        "eigenvector_centrality": 7.816159013020232e-22,
+        "closeness_centrality": 0.007331042382588774,
+        "betweenness_centrality": 5.964045326744483e-05,
+        "time": 2004
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.005934718100890208,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0025,
+        "eigenvector_centrality": 3.0528079583786987e-66,
+        "closeness_centrality": 0.010025062656641603,
+        "betweenness_centrality": 0.0,
+        "time": 2007
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0024875621890547263,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.0024937655860349127,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      },
+      {
+        "id": "Frank_van_Ham",
+        "label": "Frank van Ham",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.002052634038836023,
+        "eigenvector_centrality": 2.5025208521570242e-23,
+        "closeness_centrality": 0.016829979804024238,
+        "betweenness_centrality": 0.0004149768933320758,
+        "time": 2009
+      }
+    ],
+    "Ellen_Isaacs": [
+      {
+        "id": "Ellen_Isaacs",
+        "label": "Ellen Isaacs",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001996007984031936,
+        "eigenvector_centrality": 6.762000697266437e-15,
+        "closeness_centrality": 0.008,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      }
+    ],
+    "Christoph_M._B\u00f6sch": [
+      {
+        "id": "Christoph_M._B\u00f6sch",
+        "label": "Christoph M. B\u00f6sch",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002053388090349076,
+        "eigenvector_centrality": 9.752655484586943e-24,
+        "closeness_centrality": 0.00823045267489712,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "Benjamin_Hoover": [
+      {
+        "id": "Benjamin_Hoover",
+        "label": "Benjamin Hoover",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0013715702770988266,
+        "eigenvector_centrality": 0.01649730295154283,
+        "closeness_centrality": 0.09048706114365736,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Thomas_Rydell": [
+      {
+        "id": "Thomas_Rydell",
+        "label": "Thomas Rydell",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.00206907308230887,
+        "eigenvector_centrality": 3.0966512014884996e-10,
+        "closeness_centrality": 0.008803449514911965,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Alan_Turner": [
+      {
+        "id": "Alan_Turner",
+        "label": "Alan Turner",
+        "total_num_edges": 9,
+        "total_weighted_edges": 9,
+        "pagerank": 0.002115694003247388,
+        "eigenvector_centrality": 0.31090288924981585,
+        "closeness_centrality": 0.019191118160190323,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      },
+      {
+        "id": "Alan_Turner",
+        "label": "Alan Turner",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0025974025974025974,
+        "eigenvector_centrality": 4.546941288027715e-12,
+        "closeness_centrality": 0.0078125,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      }
+    ],
+    "Seungyoon_Lee": [
+      {
+        "id": "Seungyoon_Lee",
+        "label": "Seungyoon Lee",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002890173410404624,
+        "eigenvector_centrality": 1.6362091280894926e-22,
+        "closeness_centrality": 0.011594202898550725,
+        "betweenness_centrality": 0.0,
+        "time": 2013
+      }
+    ],
+    "Stephen_A._Ehmann": [
+      {
+        "id": "Stephen_A._Ehmann",
+        "label": "Stephen A. Ehmann",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0038314176245210726,
+        "eigenvector_centrality": 3.6912694954868597e-10,
+        "closeness_centrality": 0.015384615384615385,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      }
+    ],
+    "Alan_Chu": [
+      {
+        "id": "Alan_Chu",
+        "label": "Alan Chu",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0021645021645021645,
+        "eigenvector_centrality": 1.2388411343866066e-48,
+        "closeness_centrality": 0.006507592190889371,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "Tom_Mace": [
+      {
+        "id": "Tom_Mace",
+        "label": "Tom Mace",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0064516129032258064,
+        "eigenvector_centrality": 8.843436274893785e-14,
+        "closeness_centrality": 0.025974025974025976,
+        "betweenness_centrality": 0.0,
+        "time": 1994
+      }
+    ],
+    "Max_Sondag": [
+      {
+        "id": "Max_Sondag",
+        "label": "Max Sondag",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0022271714922048997,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.004464285714285714,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      },
+      {
+        "id": "Max_Sondag",
+        "label": "Max Sondag",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 5.039034998499186e-46,
+        "closeness_centrality": 0.003105590062111801,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Srikanth_Kandula": [
+      {
+        "id": "Srikanth_Kandula",
+        "label": "Srikanth Kandula",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.001972243930046417,
+        "eigenvector_centrality": 5.268421059900753e-19,
+        "closeness_centrality": 0.019134234925884366,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      }
+    ],
+    "Min_Lu_0002": [
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.002569247427484645,
+        "eigenvector_centrality": 2.033718553104828e-18,
+        "closeness_centrality": 0.01677018633540373,
+        "betweenness_centrality": 0.0,
+        "time": 2013
+      },
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.00174808595944529,
+        "eigenvector_centrality": 6.458904915045762e-06,
+        "closeness_centrality": 0.10125547445255474,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0008994145231018368,
+        "eigenvector_centrality": 0.11483499926501058,
+        "closeness_centrality": 0.018171774146653486,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      },
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0017299939042183824,
+        "eigenvector_centrality": 7.960774893316544e-07,
+        "closeness_centrality": 0.06256966217354,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      },
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002006792770111742,
+        "eigenvector_centrality": 8.428652510656133e-06,
+        "closeness_centrality": 0.06496099411057323,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      },
+      {
+        "id": "Min_Lu_0002",
+        "label": "Min Lu 0002",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0018939393939393942,
+        "eigenvector_centrality": 1.36595942718226e-46,
+        "closeness_centrality": 0.009487666034155597,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Michael_H._F._Wilkinson": [
+      {
+        "id": "Michael_H._F._Wilkinson",
+        "label": "Michael H. F. Wilkinson",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0024154589371980675,
+        "eigenvector_centrality": 5.681735500077457e-31,
+        "closeness_centrality": 0.009685230024213076,
+        "betweenness_centrality": 0.0,
+        "time": 2010
+      }
+    ],
+    "Michael_B._Burks": [
+      {
+        "id": "Michael_B._Burks",
+        "label": "Michael B. Burks",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.004255455219941522,
+        "eigenvector_centrality": 4.977996993739706e-07,
+        "closeness_centrality": 0.028673835125448025,
+        "betweenness_centrality": 0.0,
+        "time": 1996
+      }
+    ],
+    "Rudolf_Netzel": [
+      {
+        "id": "Rudolf_Netzel",
+        "label": "Rudolf Netzel",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0012871144013860613,
+        "eigenvector_centrality": 9.238789463326369e-08,
+        "closeness_centrality": 0.026759259259259257,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Rudolf_Netzel",
+        "label": "Rudolf Netzel",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0012709774344544724,
+        "eigenvector_centrality": 3.2830991166947607e-06,
+        "closeness_centrality": 0.06626751592356687,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Rudolf_Netzel",
+        "label": "Rudolf Netzel",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001891310085475496,
+        "eigenvector_centrality": 4.19552945391196e-13,
+        "closeness_centrality": 0.04241268594983385,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      }
+    ],
+    "Bharath_Kalidindi": [
+      {
+        "id": "Bharath_Kalidindi",
+        "label": "Bharath Kalidindi",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019724254883915202,
+        "eigenvector_centrality": 1.873643630044128e-117,
+        "closeness_centrality": 0.024009146341463415,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      }
+    ],
+    "Kyoko_Nakamura": [
+      {
+        "id": "Kyoko_Nakamura",
+        "label": "Kyoko Nakamura",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0045662100456621,
+        "eigenvector_centrality": 1.5578628467507607e-16,
+        "closeness_centrality": 0.013761467889908258,
+        "betweenness_centrality": 0.0,
+        "time": 1997
+      }
+    ],
+    "Joan_C._King": [
+      {
+        "id": "Joan_C._King",
+        "label": "Joan C. King",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.006944444444444444,
+        "eigenvector_centrality": 7.059593498794575e-11,
+        "closeness_centrality": 0.02097902097902098,
+        "betweenness_centrality": 0.0,
+        "time": 1992
+      }
+    ],
+    "James_S._Walker": [
+      {
+        "id": "James_S._Walker",
+        "label": "James S. Walker",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0016835016835016832,
+        "eigenvector_centrality": 5.390008102393707e-44,
+        "closeness_centrality": 0.003372681281618887,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Winter_Wei": [
+      {
+        "id": "Winter_Wei",
+        "label": "Winter Wei",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001838235294117647,
+        "eigenvector_centrality": 2.4812206144276324e-16,
+        "closeness_centrality": 0.009208103130755065,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      }
+    ],
+    "Thomas_Wischgoll": [
+      {
+        "id": "Thomas_Wischgoll",
+        "label": "Thomas Wischgoll",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 1.4153140053478573e-36,
+        "closeness_centrality": 0.004123711340206186,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      },
+      {
+        "id": "Thomas_Wischgoll",
+        "label": "Thomas Wischgoll",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0019723865877712033,
+        "eigenvector_centrality": 3.980683983111542e-12,
+        "closeness_centrality": 0.005928853754940711,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Shaozhang_Dai": [
+      {
+        "id": "Shaozhang_Dai",
+        "label": "Shaozhang Dai",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001893939393939394,
+        "eigenvector_centrality": 2.489685763400311e-56,
+        "closeness_centrality": 0.007590132827324478,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Saul_Greenberg": [
+      {
+        "id": "Saul_Greenberg",
+        "label": "Saul Greenberg",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0032679738562091504,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.006557377049180328,
+        "betweenness_centrality": 0.0,
+        "time": 2003
+      }
+    ],
+    "Klaus_Engel": [
+      {
+        "id": "Klaus_Engel",
+        "label": "Klaus Engel",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.002892307864898021,
+        "eigenvector_centrality": 8.926728972666343e-13,
+        "closeness_centrality": 0.021093749999999998,
+        "betweenness_centrality": 0.0,
+        "time": 1999
+      },
+      {
+        "id": "Klaus_Engel",
+        "label": "Klaus Engel",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.004015885879736204,
+        "eigenvector_centrality": 5.100676510967814e-09,
+        "closeness_centrality": 0.020512820512820513,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      },
+      {
+        "id": "Klaus_Engel",
+        "label": "Klaus Engel",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0032726245060342553,
+        "eigenvector_centrality": 6.742951792345953e-09,
+        "closeness_centrality": 0.010296010296010296,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      }
+    ],
+    "David_Selassie": [
+      {
+        "id": "David_Selassie",
+        "label": "David Selassie",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0014765909557858474,
+        "eigenvector_centrality": 3.243780766830371e-11,
+        "closeness_centrality": 0.008003952569169961,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Andrew_Wood": [
+      {
+        "id": "Andrew_Wood",
+        "label": "Andrew Wood",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.006060606060606061,
+        "eigenvector_centrality": 1.569000990703855e-33,
+        "closeness_centrality": 0.018292682926829267,
+        "betweenness_centrality": 0.0,
+        "time": 1995
+      }
+    ],
+    "Wei_Zeng_0004": [
+      {
+        "id": "Wei_Zeng_0004",
+        "label": "Wei Zeng 0004",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0014793013849923203,
+        "eigenvector_centrality": 3.379405853709647e-06,
+        "closeness_centrality": 0.09861611374407582,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      },
+      {
+        "id": "Wei_Zeng_0004",
+        "label": "Wei Zeng 0004",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0019962872648176134,
+        "eigenvector_centrality": 1.7394302448622585e-77,
+        "closeness_centrality": 0.0350009204712813,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      },
+      {
+        "id": "Wei_Zeng_0004",
+        "label": "Wei Zeng 0004",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001150163476907788,
+        "eigenvector_centrality": 1.477113900294185e-05,
+        "closeness_centrality": 0.09412772322613332,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      },
+      {
+        "id": "Wei_Zeng_0004",
+        "label": "Wei Zeng 0004",
+        "total_num_edges": 22,
+        "total_weighted_edges": 23,
+        "pagerank": 0.003913835610555579,
+        "eigenvector_centrality": 0.16843257201165496,
+        "closeness_centrality": 0.1437906869639901,
+        "betweenness_centrality": 0.03657380447163876,
+        "time": 2020
+      },
+      {
+        "id": "Wei_Zeng_0004",
+        "label": "Wei Zeng 0004",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001185784023333531,
+        "eigenvector_centrality": 0.04332811437300862,
+        "closeness_centrality": 0.10750473152735425,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Eduardo_Nolasco": [
+      {
+        "id": "Eduardo_Nolasco",
+        "label": "Eduardo Nolasco",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.004016064257028113,
+        "eigenvector_centrality": 5.6031107124408146e-05,
+        "closeness_centrality": 0.03225806451612903,
+        "betweenness_centrality": 0.0,
+        "time": 1996
+      }
+    ],
+    "Zhuochen_Jin": [
+      {
+        "id": "Zhuochen_Jin",
+        "label": "Zhuochen Jin",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019001914202494354,
+        "eigenvector_centrality": 3.5354354666008407e-12,
+        "closeness_centrality": 0.014141414141414142,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      },
+      {
+        "id": "Zhuochen_Jin",
+        "label": "Zhuochen Jin",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0013510665491746334,
+        "eigenvector_centrality": 0.00014113869355025462,
+        "closeness_centrality": 0.08372409894402691,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "David_Blair_Kirk": [
+      {
+        "id": "David_Blair_Kirk",
+        "label": "David Blair Kirk",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0018936448187961592,
+        "eigenvector_centrality": 8.916820800840927e-08,
+        "closeness_centrality": 0.04489730680092704,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Niels_Willems": [
+      {
+        "id": "Niels_Willems",
+        "label": "Niels Willems",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001806936512803367,
+        "eigenvector_centrality": 1.2906688824234734e-07,
+        "closeness_centrality": 0.017786561264822136,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Micah_T._Taylor": [
+      {
+        "id": "Micah_T._Taylor",
+        "label": "Micah T. Taylor",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0024875621890547263,
+        "eigenvector_centrality": 5.774463455251817e-205,
+        "closeness_centrality": 0.00997506234413965,
+        "betweenness_centrality": 0.0,
+        "time": 2008
+      }
+    ],
+    "Tip_E._Clifton_III": [
+      {
+        "id": "Tip_E._Clifton_III",
+        "label": "Tip E. Clifton III",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.006944444444444444,
+        "eigenvector_centrality": 2.2387467187398163e-13,
+        "closeness_centrality": 0.013986013986013986,
+        "betweenness_centrality": 0.0,
+        "time": 1992
+      }
+    ],
+    "Aaron_Striegel": [
+      {
+        "id": "Aaron_Striegel",
+        "label": "Aaron Striegel",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019723865877712033,
+        "eigenvector_centrality": 3.922013690418347e-09,
+        "closeness_centrality": 0.009881422924901186,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Sanjin_Rados": [
+      {
+        "id": "Sanjin_Rados",
+        "label": "Sanjin Rados",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0015401538512986805,
+        "eigenvector_centrality": 3.577065327966342e-37,
+        "closeness_centrality": 0.011859582542694497,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Eston_Schweickart": [
+      {
+        "id": "Eston_Schweickart",
+        "label": "Eston Schweickart",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0018517287923324188,
+        "eigenvector_centrality": 0.09001472033828531,
+        "closeness_centrality": 0.029853273137697513,
+        "betweenness_centrality": 0.0,
+        "time": 2016
+      }
+    ],
+    "Francis_Lazarus": [
+      {
+        "id": "Francis_Lazarus",
+        "label": "Francis Lazarus",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.004366812227074236,
+        "eigenvector_centrality": 5.836039523491041e-11,
+        "closeness_centrality": 0.013157894736842105,
+        "betweenness_centrality": 0.0,
+        "time": 1998
+      }
+    ],
+    "Kecheng_Lu": [
+      {
+        "id": "Kecheng_Lu",
+        "label": "Kecheng Lu",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0020784307001470107,
+        "eigenvector_centrality": 0.02193847078172269,
+        "closeness_centrality": 0.03382977166276347,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      },
+      {
+        "id": "Kecheng_Lu",
+        "label": "Kecheng Lu",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.001370305461529181,
+        "eigenvector_centrality": 0.001843898696269665,
+        "closeness_centrality": 0.10091638930384116,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Loey_Knapp": [
+      {
+        "id": "Loey_Knapp",
+        "label": "Loey Knapp",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0064516129032258064,
+        "eigenvector_centrality": 8.843436274893785e-14,
+        "closeness_centrality": 0.025974025974025976,
+        "betweenness_centrality": 0.0,
+        "time": 1994
+      }
+    ],
+    "Jameson_Miller": [
+      {
+        "id": "Jameson_Miller",
+        "label": "Jameson Miller",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.005934718100890208,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Liang_Yu": [
+      {
+        "id": "Liang_Yu",
+        "label": "Liang Yu",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0016835016835016832,
+        "eigenvector_centrality": 8.852119868318365e-07,
+        "closeness_centrality": 0.013490725126475547,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Yuqun_Chen": [
+      {
+        "id": "Yuqun_Chen",
+        "label": "Yuqun Chen",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0038314176245210726,
+        "eigenvector_centrality": 3.6912694954868597e-10,
+        "closeness_centrality": 0.015384615384615385,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      }
+    ],
+    "Larry_A._Curtiss": [
+      {
+        "id": "Larry_A._Curtiss",
+        "label": "Larry A. Curtiss",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.0015974835146649602,
+        "eigenvector_centrality": 9.932780685678218e-08,
+        "closeness_centrality": 0.014999556226147156,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Omniah_H._Nagoor": [
+      {
+        "id": "Omniah_H._Nagoor",
+        "label": "Omniah H. Nagoor",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0008392021567050275,
+        "eigenvector_centrality": 1.2169046831209283e-05,
+        "closeness_centrality": 0.04400330477494709,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Nadir_Weibel": [
+      {
+        "id": "Nadir_Weibel",
+        "label": "Nadir Weibel",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0013550193273881394,
+        "eigenvector_centrality": 1.9060674541008718e-06,
+        "closeness_centrality": 0.03654025120064125,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Astrid_E._Visser": [
+      {
+        "id": "Astrid_E._Visser",
+        "label": "Astrid E. Visser",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0040740780391454,
+        "eigenvector_centrality": 1.4732100960649843e-06,
+        "closeness_centrality": 0.01978021978021978,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      }
+    ],
+    "Paolo_Federico_0001": [
+      {
+        "id": "Paolo_Federico_0001",
+        "label": "Paolo Federico 0001",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0007617475431770001,
+        "eigenvector_centrality": 7.646716107801875e-05,
+        "closeness_centrality": 0.0356331109318865,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      },
+      {
+        "id": "Paolo_Federico_0001",
+        "label": "Paolo Federico 0001",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0019028474720489002,
+        "eigenvector_centrality": 1.704952087329355e-178,
+        "closeness_centrality": 0.021164021164021163,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      }
+    ],
+    "Shao-Chiung_Lu": [
+      {
+        "id": "Shao-Chiung_Lu",
+        "label": "Shao-Chiung Lu",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.006060606060606061,
+        "eigenvector_centrality": 1.569000990703855e-33,
+        "closeness_centrality": 0.018292682926829267,
+        "betweenness_centrality": 0.0,
+        "time": 1995
+      },
+      {
+        "id": "Shao-Chiung_Lu",
+        "label": "Shao-Chiung Lu",
+        "total_num_edges": 5,
+        "total_weighted_edges": 10,
+        "pagerank": 0.004799358428725092,
+        "eigenvector_centrality": 1.6130453322702815e-11,
+        "closeness_centrality": 0.02512406947890819,
+        "betweenness_centrality": 0.0,
+        "time": 1996
+      },
+      {
+        "id": "Shao-Chiung_Lu",
+        "label": "Shao-Chiung Lu",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0036101083032490976,
+        "eigenvector_centrality": 5.482061644297423e-11,
+        "closeness_centrality": 0.014492753623188406,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      }
+    ],
+    "Lynn_McVey": [
+      {
+        "id": "Lynn_McVey",
+        "label": "Lynn McVey",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0015503875968992244,
+        "eigenvector_centrality": 9.74574860006669e-22,
+        "closeness_centrality": 0.009316770186335404,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Rohit_Ashok_Khot": [
+      {
+        "id": "Rohit_Ashok_Khot",
+        "label": "Rohit Ashok Khot",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001996007984031936,
+        "eigenvector_centrality": 6.762000697266437e-15,
+        "closeness_centrality": 0.008,
+        "betweenness_centrality": 0.0,
+        "time": 2014
+      }
+    ],
+    "Dong_Sun_0001": [
+      {
+        "id": "Dong_Sun_0001",
+        "label": "Dong Sun 0001",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.0015292796606784685,
+        "eigenvector_centrality": 1.681908460910845e-05,
+        "closeness_centrality": 0.08354747526660672,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      }
+    ],
+    "Janine_Bennett": [
+      {
+        "id": "Janine_Bennett",
+        "label": "Janine Bennett",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0025974025974025974,
+        "eigenvector_centrality": 3.4179115847645394e-14,
+        "closeness_centrality": 0.005208333333333333,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      },
+      {
+        "id": "Janine_Bennett",
+        "label": "Janine Bennett",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0019825993480737545,
+        "eigenvector_centrality": 2.391366228096536e-05,
+        "closeness_centrality": 0.023781291172595517,
+        "betweenness_centrality": 0.0,
+        "time": 2011
+      }
+    ],
+    "Suphanut_Jamonnak": [
+      {
+        "id": "Suphanut_Jamonnak",
+        "label": "Suphanut Jamonnak",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0015503875968992244,
+        "eigenvector_centrality": 9.74574860006669e-22,
+        "closeness_centrality": 0.009316770186335404,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      },
+      {
+        "id": "Suphanut_Jamonnak",
+        "label": "Suphanut Jamonnak",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.002207505518763797,
+        "eigenvector_centrality": 8.4392602771e-312,
+        "closeness_centrality": 0.00663716814159292,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      }
+    ],
+    "Fosca_Giannotti": [
+      {
+        "id": "Fosca_Giannotti",
+        "label": "Fosca Giannotti",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.0016847192705800537,
+        "eigenvector_centrality": 2.746216568605205e-13,
+        "closeness_centrality": 0.028199566160520606,
+        "betweenness_centrality": 0.0,
+        "time": 2009
+      }
+    ],
+    "Jennifer_Frazier": [
+      {
+        "id": "Jennifer_Frazier",
+        "label": "Jennifer Frazier",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0018643571190636653,
+        "eigenvector_centrality": 1.5754394409845596e-23,
+        "closeness_centrality": 0.012103606874848705,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      },
+      {
+        "id": "Jennifer_Frazier",
+        "label": "Jennifer Frazier",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0009708990598984004,
+        "eigenvector_centrality": 2.4184407233888767e-07,
+        "closeness_centrality": 0.056280022503353865,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      },
+      {
+        "id": "Jennifer_Frazier",
+        "label": "Jennifer Frazier",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0011170757360852797,
+        "eigenvector_centrality": 3.0691387642198318e-21,
+        "closeness_centrality": 0.014476056902424364,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Roman_Y._Novoselov": [
+      {
+        "id": "Roman_Y._Novoselov",
+        "label": "Roman Y. Novoselov",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0038314176245210717,
+        "eigenvector_centrality": 2.0097182733877234e-14,
+        "closeness_centrality": 0.011538461538461539,
+        "betweenness_centrality": 0.0,
+        "time": 2000
+      }
+    ],
+    "Yukun_Ren": [
+      {
+        "id": "Yukun_Ren",
+        "label": "Yukun Ren",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.001429625878422108,
+        "eigenvector_centrality": 4.570906080167882e-21,
+        "closeness_centrality": 0.023548873643750304,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Horace_Mitchell": [
+      {
+        "id": "Horace_Mitchell",
+        "label": "Horace Mitchell",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0038461538461538464,
+        "eigenvector_centrality": 7.675778083949034e-12,
+        "closeness_centrality": 0.003861003861003861,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      }
+    ],
+    "Adam_Gepner": [
+      {
+        "id": "Adam_Gepner",
+        "label": "Adam Gepner",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.00205761316872428,
+        "eigenvector_centrality": 4.906342551326949e-08,
+        "closeness_centrality": 0.01443298969072165,
+        "betweenness_centrality": 0.0,
+        "time": 2004
+      }
+    ],
+    "Florian_Reichl": [
+      {
+        "id": "Florian_Reichl",
+        "label": "Florian Reichl",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.002053388090349076,
+        "eigenvector_centrality": 8.875343803576265e-20,
+        "closeness_centrality": 0.0102880658436214,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "Chris_Gale": [
+      {
+        "id": "Chris_Gale",
+        "label": "Chris Gale",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0015503875968992244,
+        "eigenvector_centrality": 9.74574860006669e-22,
+        "closeness_centrality": 0.009316770186335404,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Elisa_Portes_dos_Santos": [
+      {
+        "id": "Elisa_Portes_dos_Santos",
+        "label": "Elisa Portes dos Santos",
+        "total_num_edges": 5,
+        "total_weighted_edges": 5,
+        "pagerank": 0.002053388090349076,
+        "eigenvector_centrality": 8.875343803576265e-20,
+        "closeness_centrality": 0.0102880658436214,
+        "betweenness_centrality": 0.0,
+        "time": 2012
+      }
+    ],
+    "Monica_K._Hurdal": [
+      {
+        "id": "Monica_K._Hurdal",
+        "label": "Monica K. Hurdal",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0036101083032490976,
+        "eigenvector_centrality": 7.271645135133124e-18,
+        "closeness_centrality": 0.007246376811594203,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      }
+    ],
+    "W._Brent_Seales": [
+      {
+        "id": "W._Brent_Seales",
+        "label": "W. Brent Seales",
+        "total_num_edges": 7,
+        "total_weighted_edges": 7,
+        "pagerank": 0.004149377593360996,
+        "eigenvector_centrality": 0.3535533259789119,
+        "closeness_centrality": 0.029166666666666667,
+        "betweenness_centrality": 0.0,
+        "time": 1999
+      },
+      {
+        "id": "W._Brent_Seales",
+        "label": "W. Brent Seales",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.003293758606572628,
+        "eigenvector_centrality": 2.859468935123297e-09,
+        "closeness_centrality": 0.01932367149758454,
+        "betweenness_centrality": 0.0,
+        "time": 2001
+      }
+    ],
+    "SungYe_Kim": [
+      {
+        "id": "SungYe_Kim",
+        "label": "SungYe Kim",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001507243711059458,
+        "eigenvector_centrality": 0.0657635034848997,
+        "closeness_centrality": 0.018045112781954885,
+        "betweenness_centrality": 0.0,
+        "time": 2007
+      }
+    ],
+    "Hui_Huang_0004": [
+      {
+        "id": "Hui_Huang_0004",
+        "label": "Hui Huang 0004",
+        "total_num_edges": 10,
+        "total_weighted_edges": 10,
+        "pagerank": 0.002679612433063866,
+        "eigenvector_centrality": 5.044630666478345e-06,
+        "closeness_centrality": 0.07953966279994291,
+        "betweenness_centrality": 0.005993761595074514,
+        "time": 2019
+      },
+      {
+        "id": "Hui_Huang_0004",
+        "label": "Hui Huang 0004",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.002006792770111742,
+        "eigenvector_centrality": 8.428652510656133e-06,
+        "closeness_centrality": 0.06496099411057323,
+        "betweenness_centrality": 0.0,
+        "time": 2021
+      },
+      {
+        "id": "Hui_Huang_0004",
+        "label": "Hui Huang 0004",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001893939393939394,
+        "eigenvector_centrality": 2.489685763400311e-56,
+        "closeness_centrality": 0.007590132827324478,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Sandeep_Prabhakar": [
+      {
+        "id": "Sandeep_Prabhakar",
+        "label": "Sandeep Prabhakar",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0028202442959803595,
+        "eigenvector_centrality": 1.0409215233724671e-08,
+        "closeness_centrality": 0.010296010296010296,
+        "betweenness_centrality": 0.0,
+        "time": 2002
+      }
+    ],
+    "Matej_Novotny": [
+      {
+        "id": "Matej_Novotny",
+        "label": "Matej Novotny",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 0.0,
+        "closeness_centrality": 0.002967359050445104,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Huanliang_Wang": [
+      {
+        "id": "Huanliang_Wang",
+        "label": "Huanliang Wang",
+        "total_num_edges": 10,
+        "total_weighted_edges": 10,
+        "pagerank": 0.0016996918853035606,
+        "eigenvector_centrality": 0.17067215491119092,
+        "closeness_centrality": 0.11807143590824806,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Tova_Avidan": [
+      {
+        "id": "Tova_Avidan",
+        "label": "Tova Avidan",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.004149377593360996,
+        "eigenvector_centrality": 2.7236757497619503e-34,
+        "closeness_centrality": 0.004166666666666667,
+        "betweenness_centrality": 0.0,
+        "time": 1999
+      }
+    ],
+    "Chester_Grosch": [
+      {
+        "id": "Chester_Grosch",
+        "label": "Chester Grosch",
+        "total_num_edges": 1,
+        "total_weighted_edges": 1,
+        "pagerank": 0.0035282949083415577,
+        "eigenvector_centrality": 1.2783863363547724e-23,
+        "closeness_centrality": 0.0061162079510703364,
+        "betweenness_centrality": 0.0,
+        "time": 1997
+      }
+    ],
+    "Guangxia_Li": [
+      {
+        "id": "Guangxia_Li",
+        "label": "Guangxia Li",
+        "total_num_edges": 8,
+        "total_weighted_edges": 8,
+        "pagerank": 0.0016835016835016832,
+        "eigenvector_centrality": 8.852119868318365e-07,
+        "closeness_centrality": 0.013490725126475547,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      }
+    ],
+    "Ulrich_Rist": [
+      {
+        "id": "Ulrich_Rist",
+        "label": "Ulrich Rist",
+        "total_num_edges": 2,
+        "total_weighted_edges": 2,
+        "pagerank": 0.0008999284851416457,
+        "eigenvector_centrality": 0.016797487974073266,
+        "closeness_centrality": 0.03130918560606061,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      }
+    ],
+    "Kenneth_Moreland": [
+      {
+        "id": "Kenneth_Moreland",
+        "label": "Kenneth Moreland",
+        "total_num_edges": 12,
+        "total_weighted_edges": 13,
+        "pagerank": 0.0037597482453517396,
+        "eigenvector_centrality": 0.23605508200840591,
+        "closeness_centrality": 0.03007518796992481,
+        "betweenness_centrality": 0.00015113159783881815,
+        "time": 2007
+      }
+    ],
+    "Kostiantyn_Kucher": [
+      {
+        "id": "Kostiantyn_Kucher",
+        "label": "Kostiantyn Kucher",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0015503875968992248,
+        "eigenvector_centrality": 8.877772074945974e-38,
+        "closeness_centrality": 0.004658385093167702,
+        "betweenness_centrality": 0.0,
+        "time": 2020
+      }
+    ],
+    "Roberto_Paoli": [
+      {
+        "id": "Roberto_Paoli",
+        "label": "Roberto Paoli",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.001893939393939394,
+        "eigenvector_centrality": 2.489685763400311e-56,
+        "closeness_centrality": 0.007590132827324478,
+        "betweenness_centrality": 0.0,
+        "time": 2022
+      }
+    ],
+    "Halden_Lin": [
+      {
+        "id": "Halden_Lin",
+        "label": "Halden Lin",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0020161290322580645,
+        "eigenvector_centrality": 3.9835441563116295e-11,
+        "closeness_centrality": 0.012121212121212121,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "Adam_James_Bradley": [
+      {
+        "id": "Adam_James_Bradley",
+        "label": "Adam James Bradley",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0016973140254568336,
+        "eigenvector_centrality": 1.150965338546942e-06,
+        "closeness_centrality": 0.07809872687965409,
+        "betweenness_centrality": 0.0,
+        "time": 2019
+      }
+    ],
+    "Walter_F._Stewart": [
+      {
+        "id": "Walter_F._Stewart",
+        "label": "Walter F. Stewart",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0022271714922048997,
+        "eigenvector_centrality": 1.1988138208586286e-212,
+        "closeness_centrality": 0.013392857142857142,
+        "betweenness_centrality": 0.0,
+        "time": 2017
+      }
+    ],
+    "Brian_C._McCann": [
+      {
+        "id": "Brian_C._McCann",
+        "label": "Brian C. McCann",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.00156022926195843,
+        "eigenvector_centrality": 0.0005751018490377735,
+        "closeness_centrality": 0.049350911476252084,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      }
+    ],
+    "David_H._Porter": [
+      {
+        "id": "David_H._Porter",
+        "label": "David H. Porter",
+        "total_num_edges": 3,
+        "total_weighted_edges": 3,
+        "pagerank": 0.0025974025974025974,
+        "eigenvector_centrality": 4.546941288027715e-12,
+        "closeness_centrality": 0.0078125,
+        "betweenness_centrality": 0.0,
+        "time": 2005
+      }
+    ],
+    "Yunfan_Bao": [
+      {
+        "id": "Yunfan_Bao",
+        "label": "Yunfan Bao",
+        "total_num_edges": 4,
+        "total_weighted_edges": 4,
+        "pagerank": 0.0029585798816568047,
+        "eigenvector_centrality": 6.248750826625605e-168,
+        "closeness_centrality": 0.011869436201780416,
+        "betweenness_centrality": 0.0,
+        "time": 2006
+      }
+    ],
+    "Zhiguang_Zhou": [
+      {
+        "id": "Zhiguang_Zhou",
+        "label": "Zhiguang Zhou",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.0015847985445091493,
+        "eigenvector_centrality": 2.3176540705964208e-07,
+        "closeness_centrality": 0.021585160202360877,
+        "betweenness_centrality": 0.0,
+        "time": 2015
+      },
+      {
+        "id": "Zhiguang_Zhou",
+        "label": "Zhiguang Zhou",
+        "total_num_edges": 6,
+        "total_weighted_edges": 6,
+        "pagerank": 0.001571244579656855,
+        "eigenvector_centrality": 0.09937981865617472,
+        "closeness_centrality": 0.06105095902848712,
+        "betweenness_centrality": 0.0,
+        "time": 2018
+      },
+      {
+        "id": "Zhiguang_Zhou",
+        "label": "Zhiguang Zhou",
+        "total_num_edges": 20,
+        "total_weighted_edges": 24,
+        "pagerank": 0.0033595253663463286,
+        "eigenvector_centrality": 0.20299119214874478,
+        "closeness_centrality": 0.1316542253119836,
+        "betweenness_centrality": 0.0041662450135687935,
+        "time": 2020
+      }
+    ]
+}

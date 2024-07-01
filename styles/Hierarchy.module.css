@@ -1,0 +1,276 @@
+.graph {
+  display: flex;
+  flex: 1;
+}
+
+.graph.row {
+  flex-direction: row;
+}
+
+/* .row:hover {
+  background-color: #f0f0f0;
+} */
+
+.row:checked {
+  background-color: #f0f0f0;
+}
+
+.graph.column7 {
+  flex: 7;
+}
+
+.graph.column3 {
+  flex: 3;
+}
+
+.tree_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.criteria_line {
+  stroke-width: 0.1rem;
+  stroke-dasharray: 5,5; 
+}
+
+.criteria_rect {
+  z-index: 10;
+}
+
+.criteria_label {
+  display: block;
+  position: relative;
+}
+
+.button_wrapper {
+  display: flex;
+  gap: 0.3rem;
+  justify-content: center;
+  align-content: center;
+}
+
+.graph_change_button {
+  height: 0.8rem;
+  font-size: 0.7rem;
+}
+
+.table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.1rem;
+}
+
+.table thead {
+  position: sticky; 
+  top: 0; 
+  z-index: 1; 
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ddd;
+}
+
+.table th {
+  background-color: #f2f2f2; 
+  padding: 0.2rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table td {
+  padding-left: 0.2rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-size: 0.6rem; /* Set the desired font size here */
+}
+
+.headerCell {
+  display: flex;
+  align-items: center;
+  font-size: 0.6rem;
+}
+
+.sortIcon {
+  font-size: inherit;
+  margin-left: 0.2rem;
+}
+
+.searchBar {
+  position: relative;
+  display: flex; /* Use flex layout */
+  align-items: center;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.searchInput {
+  padding: 0.3rem; 
+  font-size: 0.7rem;
+  width: 90%;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+.searchInput::placeholder {
+  font-size: 0.7rem;
+  color: #999; 
+}
+
+.searchIcon {
+  font-size: inherit;
+  color: #999; 
+}
+
+.hoveredRow {
+  background-color: #f0f0f0;
+}
+
+.clickedRow {
+  background-color: #f0f0f0;
+}
+
+.class_input {
+  font-size: 0.7rem;
+  width: 3rem;
+}
+
+.class_button {
+  background-color: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.6rem;
+  font-weight: bold;
+  padding: 0px;
+}
+
+.select {
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  font-family: 'Roboto';
+  font-size: 0.7rem;
+  font-weight: 500;
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #3c4043;
+  border-radius: 0.5rem 0 0 0.5rem;
+  /* Add more custom styles here */
+}
+
+.searchInput_select {
+  padding: 0.3rem; 
+  font-size: 0.7rem;
+  width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.searchBar_select {
+  position: relative;
+  display: flex; /* Use flex layout */
+  align-items: center;
+  border-radius: 0.5rem;
+  border: 0;
+}
+
+.option {
+  font-size: 0.75rem;
+  /* Add more custom styles here */
+}
+
+.page_button {
+  background-color: white;
+  border: 0;
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 0.3rem;
+  color: #304674;
+  cursor: pointer;
+  display: flex;
+  font-family: 'Roboto';
+  font-size: 0.8rem;
+  font-weight: 400;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.page_button:active,
+.page_button:hover,
+.page_button:focus {
+  outline: 0;
+}
+
+
+.page_button:active {
+  background-color: #304674;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+  color: #FFFFFF;
+}
+
+.page_button:hover {
+  background-color: #c6d3e3;
+  border-color: #98bad5;
+}
+
+.page_select {
+  border: 1px solid #304674;
+  border-radius: 0.4rem;
+  color: #304674;
+  font-family: 'Roboto';
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.checkbox_container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+}
+
+#filter_swatch {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 0.1rem;
+  padding: 0;
+}
+
+#filter_swatch::-webkit-color-swatch {
+  border: 1px solid #fff;
+  border-radius: 0.1rem;
+}
+
+#filter_swatch::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+
+#filter_swatch::-moz-color-swatch {
+  border: none;
+  border-radius: 0.1rem;
+}
+
+#filter_swatch::-webkit-color-swatch:hover {
+  border: 1px solid #bbb;
+}
+
+#filter_swatch::-webkit-color-swatch:focus {
+  border: 1px solid #bbb;
+}
+/* .page_button:active:hover,
+.page_button:focus:hover{
+  background-color: #304674;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+  color: #FFFFFF;
+}
+
+.page_button:focus {
+  background-color: #F5F9FD;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+  color: #304674;
+} */

@@ -1,0 +1,76 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "name": "a",
+                    "time": 1,
+                    "distance": 0
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "name": "b",
+                            "time": 2,
+                            "distance": 0
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "name": "c",
+                                            "time": 3,
+                                            "distance": 0
+                                        }, 
+                                        {
+                                            "children": [], 
+                                            "name": "d",
+                                            "time": 4,
+                                            "distance": 0
+                                        }
+                                    ], 
+                                    "name": "c-d",
+                                    "time": 3.5,
+                                    "distance": 1
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "name": "e",
+                                            "time": 5,
+                                            "distance": 0
+                                        }, 
+                                        {
+                                            "children": [], 
+                                            "name": "f",
+                                            "time": 6,
+                                            "distance": 0
+                                        }
+                                    ], 
+                                    "name": "e-f",
+                                    "time": 5.5,
+                                    "distance": 1
+                                }
+                            ], 
+                            "name": "c-d-e-f",
+                            "time": 4.5,
+                            "distance": 2
+                        }
+                    ], 
+                    "name": "b-c-d-e-f",
+                    "time": 3.25,
+                    "distance": 3
+                }
+            ], 
+            "name": "a-b-c-d-e-f",
+            "time": 2.125,
+            "distance": 4
+        }
+    ], 
+    "name": "Root"
+}
