@@ -9,6 +9,7 @@ It also provides rich information on both individuals and communities extracted 
 ## How to add your own data to DGComics
 
 - You can add your own processed data to the directory `backend/data/<your data name>`
+- Use data_processing.ipynb to check our preprocessing pipeline
 - Your processed data should contains the following files:
 
 | File                       | Purpose                                                                                                                        |
