@@ -1,12 +1,12 @@
-# DGComics: Semi-Automatically Authoring Graph Comics for Dynamic Graphs
+# DG Comics: Semi-Automatically Authoring Graph Comics for Dynamic Graphs
 
-DGComics is a novel comic authoring tool for dynamic graphs that allows users to semi-automatically build the comic and annotate it.
+DG Comics is a novel comic authoring tool for dynamic graphs that allows users to semi-automatically build the comic and annotate it.
 The tool uses a hierarchical clustering algorithm that we newly developed for segmenting consecutive snapshots of the dynamic graph while preserving their chronological order.
 It also provides rich information on both individuals and communities extracted from dynamic graphs in multiple views, where users can explore dynamic graphs and choose what to tell in comics. 
 
 ![system overview](readme-images/system.png "System Overview")
 
-## How to add your own data to DGComics
+## How to add your own data to DG Comics
 
 - You can add your own processed data to the directory `backend/data/<your data name>`
 - Use `data_processing.ipynb` to check our preprocessing pipeline
@@ -133,7 +133,7 @@ The file `backend/data/vispub-coauthor/table.json` contains the nodes' features 
 The specification of the `Node` object can be found in the [aforementioned section](#the-dynamic-graph).
 
 ### The dissimilarities
-In `DGComics`, we support two level of neighboring graph:
+In `DG Comics`, we support two level of neighboring graph:
 - Level 1 (ego network): consists of the main character node and its neighrboring nodes and the connecting links.
 - Level 1.5 (neighbor network): same as the previous level but links among the neighboring nodes are added.
 
@@ -184,7 +184,7 @@ npm install
 npm run dev
 ```
 
-This command will start a web service on port 3000 for development. You can access DGComics at [http://localhost:3000/](http://localhost:3000/)
+This command will start a web service on port 3000 for development. You can access DG Comics at [http://localhost:3000/](http://localhost:3000/)
 
 ## Run the backend locally with FastAPI
 
@@ -241,7 +241,7 @@ docker exec -it ollama ollama run [model_name, e.g., mixtral]
 ```
 
 ### Update the environment variable
-- Create a `.env` file in the root directory of DGComics and add the following lines
+- Create a `.env` file in the root directory of DG Comics and add the following lines
 ```bash
 LLM_API_URL=[your LLM endpoint, usually http:localhost:11434]
 LLM_MODEL_NAME=[your LLM model name, we use mixtral in our prototype]
